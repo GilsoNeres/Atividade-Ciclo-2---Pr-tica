@@ -1,4 +1,3 @@
-# Atividade-Ciclo-2---Pr-tica
 
 /*
 * Curso de Engenharia de Software - UniEVANGÉLICA 
@@ -6,6 +5,7 @@
 * Dev: Gilso Reinaldo Neres Assis
 * DATA: 06-06-2024
 */ 
+
 const express = require('express');
 const bodyParser = require('body-parser');
 
